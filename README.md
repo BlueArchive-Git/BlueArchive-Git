@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**BlueArchive-Git/BlueArchive-Git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tips: 本账号与 BlueArchive 商业游戏毫无任何关系，BlueArchive-Git 这个名字只是我随手起的而已，并不是一个商业账号或组织
 
-Here are some ideas to get you started:
+---
+### 关于我
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 一位学生，即将步入初中，目前在六年级
+- coding is my favourite hobby
+- 主要开发环境在一个安卓手表的 Termux 上
+
+会但不多的：
+![](https://skillicons.dev/icons?i=linux,bash)
+
+目前在啃：
+![](https://skillicons.dev/icons?i=rust)
+
+–––
+### 联系我
+
+[![QQ](https://img.shields.io/badge/QQ-3963871959-12B7F5?style=flat-square&logo=tencentqq&logoColor=white)](https://wpa.qq.com/msgrd?v=3&uin=3963871959&site=qq&menu=yes)
+[![QQ Mail](https://img.shields.io/badge/QQ_Mail-3963871959@qq.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:3963871959@qq.com)
+[![Outlook](https://img.shields.io/badge/Outlook-wsdnsb@outlook.com-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:wsdnsb@outlook.com)
+
+*“Keep coding, keep shipping.”*
