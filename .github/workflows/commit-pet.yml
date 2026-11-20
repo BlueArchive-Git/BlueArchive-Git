@@ -11,8 +11,8 @@ jobs:
   pet:
     runs-on: ubuntu-latest
     steps:
-      - use: actions/checkout@v4
-      - use: yukurash/commit-pet@v1
+      - uses: actions/checkout@v4
+      - uses: yukurash/commit-pet@v1
         with:
           species: cat
           name: BlueArchive-Git
