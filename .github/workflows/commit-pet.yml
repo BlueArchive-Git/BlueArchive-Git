@@ -1,0 +1,20 @@
+name: Commit Pet
+on:
+   schedule:
+    - cron: "0 21 * * *"
+   workflow_dispatch:
+permissions:
+  contents: write
+  pull-requests: write
+  models: read
+jobs:
+  pet:
+    runs-on: ubuntu-latest
+    steps:
+      - use: actions/checkout@v4
+      - use: yukurash/commit-pet@v1
+        with:
+          species: cat
+          name: BlueArchive-Git
+          output: commit-pet.svg
+          theme: en
