@@ -10,10 +10,27 @@
 - 主要开发环境在一个安卓手表的 Termux 上
 
 会但不多的：
-![](https://skillicons.dev/icons?i=linux,bash)
+
+<p align="center">
+	<img src=https://skillicons.dev/icons?i=linux,bash />
+</p>
 
 目前在啃：
-![](https://skillicons.dev/icons?i=rust)
+
+<p align="center">
+	<img src=https://skillicons.dev/icons?i=rust />
+</p>
+
+My GitHub:
+
+<div align="center">
+	<a href="https://github.com/BlueArchive-Git">
+		<img height="180" src="https://github-readme-stats.vercel.app/api?username=BlueArchive-Git&show_icons=true&bg_color=ffffff&title_color=ff1493&text_color=4a0e2e&icon_color=ff69b4" />
+	</a>
+	<a href="https://github.com/BlueArchive-Git">
+		<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueArchive-Git&layout=compact&langs_count=12&hide=html,Jupyter%20Notebook,MATLAB&title_color=000000&text_color=3c096c" />
+	</a>
+</div>
 
 –––
 ### 联系我
@@ -22,4 +39,4 @@
 [![QQ Mail](https://img.shields.io/badge/QQ_Mail-3963871959@qq.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:3963871959@qq.com)
 [![Outlook](https://img.shields.io/badge/Outlook-wsdnsb@outlook.com-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:wsdnsb@outlook.com)
 
-*“Keep coding, keep shipping.”*
+![Visitors](https://komarev.com/ghpvc/?username=你的BlueArchive-Git&label=你是第几位访客&color=orange)
