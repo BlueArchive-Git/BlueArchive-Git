@@ -32,6 +32,10 @@ My GitHub:
 	</a>
 </div>
 
+
+My Commit Pet:
+![My Commit Pet](commit-pet.svg)
+
 –––
 ### 联系我
 
