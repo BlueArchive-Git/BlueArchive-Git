@@ -39,4 +39,4 @@ My GitHub:
 [![QQ Mail](https://img.shields.io/badge/QQ_Mail-3963871959@qq.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:3963871959@qq.com)
 [![Outlook](https://img.shields.io/badge/Outlook-wsdnsb@outlook.com-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:wsdnsb@outlook.com)
 
-![Visitors](https://komarev.com/ghpvc/?username=你的BlueArchive-Git&label=你是第几位访客&color=orange)
+**I use Arch, BTW.**
