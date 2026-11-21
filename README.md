@@ -9,16 +9,10 @@
 - coding is my favourite hobby
 - 主要开发环境在一个安卓手表的 Termux 上
 
-会但不多的：
+会一点点的：
 
 <p align="center">
-	<img src=https://skillicons.dev/icons?i=linux,bash />
-</p>
-
-目前在啃：
-
-<p align="center">
-	<img src=https://skillicons.dev/icons?i=rust />
+	<img src=https://skillicons.dev/icons?i=linux,bash,rust />
 </p>
 
 My GitHub:
@@ -34,6 +28,7 @@ My GitHub:
 
 
 My Commit Pet:
+
 ![My Commit Pet](commit-pet.svg)
 
 –––
